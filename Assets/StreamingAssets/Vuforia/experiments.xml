@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="quinkles" size="5.000000 3.288543" />
+    <ImageTarget name="quinkesmethod" size="5.000000 2.627660" />
+    <ImageTarget name="spectrometer" size="5.000000 4.620939" />
+    <ImageTarget name="torsionalpendulum" size="5.000000 5.294117" />
+    <ImageTarget name="youngsmodulus" size="5.000000 4.060606" />
+    <ImageTarget name="optical" size="5.000000 1.427289" />
+    <ImageTarget name="lasergrating" size="5.000000 2.923077" />
+    <ImageTarget name="microscope" size="5.000000 3.438061" />
+  </Tracking>
+</QCARConfig>
