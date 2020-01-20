@@ -1,6 +1,6 @@
 # ArLab
 
-Augmented Reality: It superimposes  computer generated images in realwolrd.
+Augmented Reality: It superimposes  computer generated images in realworld.
 
 In ArLab we can visualise the instructing videos of physics lab of my university in reality.
 ArLab uses unity and vuforia technologies which stand the topmost in market.
